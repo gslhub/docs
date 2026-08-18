@@ -6,6 +6,8 @@
 
 **Architecture, repository map, public operating concepts and documentation standards for GSLHub**
 
+**English** · [Español](./README.es.md)
+
 [Website](https://gslhub.com) · [Platform](https://github.com/gslhub/website) · [Research](https://github.com/gslhub/research) · [Organization](https://github.com/gslhub)
 
 </div>
