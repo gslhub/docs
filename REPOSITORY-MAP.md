@@ -6,10 +6,10 @@ GSLHub separates code, methodology, benchmarks, datasets, documentation and bran
 |---|---|---|---|
 | [`gslhub/website`](https://github.com/gslhub/website) | Public | Main research platform and website source code | AGPL-3.0-only |
 | [`gslhub/research`](https://github.com/gslhub/research) | Public | Scientific methodology, protocols, codebooks and study definitions | CC BY 4.0 for original research documentation |
-| [`gslhub/benchmarks`](https://github.com/gslhub/benchmarks) | Prepared for public release | Benchmark specifications, metric definitions and synthetic validation fixtures | CC BY 4.0 for original benchmark documentation |
+| [`gslhub/benchmarks`](https://github.com/gslhub/benchmarks) | Public | Benchmark specifications, metric definitions and synthetic validation fixtures | CC BY 4.0 for original benchmark documentation |
 | `gslhub/datasets` | Private until first reviewed release | Reviewed public dataset releases and provenance | Per dataset release |
-| `gslhub/software` | Private until first standalone tool | Independently reusable research utilities and libraries | AGPL-3.0-only unless a package states otherwise |
-| [`gslhub/docs`](https://github.com/gslhub/docs) | Prepared for public release | Cross-project public technical/institutional documentation | CC BY 4.0 unless stated otherwise |
+| `gslhub/software` | Private; first standalone package validated for public release | Independently reusable research utilities and libraries | AGPL-3.0-only unless a package states otherwise |
+| [`gslhub/docs`](https://github.com/gslhub/docs) | Public | Cross-project public technical/institutional documentation | CC BY 4.0 unless stated otherwise |
 | [`gslhub/branding`](https://github.com/gslhub/branding) | Public | Approved visual identity and brand usage guidance | Brand/trademark terms; separate from software/research licenses |
 | [`gslhub/.github`](https://github.com/gslhub/.github) | Public | Organization profile, contribution defaults, issue/PR templates and security policy | Organization governance files |
 
