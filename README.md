@@ -24,8 +24,8 @@ GSLHub separates documentation by purpose:
 
 - [`gslhub/research`](https://github.com/gslhub/research) — canonical scientific methodology, protocols and codebooks;
 - [`gslhub/benchmarks`](https://github.com/gslhub/benchmarks) — benchmark and metric specifications;
-- [`gslhub/datasets`](https://github.com/gslhub/datasets) — released dataset documentation and provenance;
-- [`gslhub/software`](https://github.com/gslhub/software) — reusable software documentation;
+- `gslhub/datasets` — controlled dataset-release channel; kept private until a reviewed dataset is ready;
+- `gslhub/software` — reusable research-software channel; kept private until the first standalone tool is released;
 - [`gslhub/website`](https://github.com/gslhub/website) — source code and implementation-specific documentation;
 - **`gslhub/docs`** — cross-project public technical and institutional documentation.
 
@@ -61,7 +61,7 @@ Documentation should be:
 
 ## Licensing
 
-Original public documentation in this repository is intended for reuse under **CC BY 4.0**, unless a file states otherwise. Code snippets copied from software repositories may remain under the software license of their source.
+Original public documentation in this repository is licensed under **CC BY 4.0**, unless a file states otherwise. Code snippets copied from software repositories may remain under the software license of their source.
 
 ---
 
